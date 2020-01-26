@@ -1,0 +1,93 @@
+.logo{
+  position: center;
+}
+
+.container about-page nav {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 2%;
+  font-size: 14px;
+  margin: right 20px;
+}
+
+.container about-page nav a {
+  color: black;
+  text-decoration: none;
+}
+
+.container about-page {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.top-content{
+  display: flex;
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+}
+
+.top-content .text-container {
+  width: 48%;
+  padding: 0 1%;
+  padding-bottom: 20px;
+}
+
+.middle-content {
+  border: 1px solid black;
+  background: lightgrey;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+.middle-content-row{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.middle-content-2 {
+  border: 1px solid black;
+  background: lightgrey;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+
+.middle-content-2-row{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bottom-content {
+  display: flex;
+  margin: 0 2% 20px;
+}
+
+.bottom-content .text-container{
+  padding-right: 4%;
+}
+
+.bottom-content .text-container:last-child{
+  padding-right: 0; 
+}
+
+footer {
+  width: 100%;
+}
+
+footer nav {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 2%,
+  font-size: 14px;
+}
+
+footer nav a {
+ color: white;
+ text-decoration: none;
+}
+
+
