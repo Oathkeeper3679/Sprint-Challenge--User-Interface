@@ -1,0 +1,19 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTML is the meaning of a specific line or piece of code call "tags" certain "tags" give what type of code is given.
+
+Name two big differences between display: block; and display: inline;.
+
+What are the 4 areas of the box model?
+  1.content
+  2.padding
+  3.border
+  4.margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+  cross axis
+
+Explain why git is valuable to a team of developers.
+
+  Sort of a "cloud" for code. Hosts coding projects in different programming languages. Keeps track of various changes of code. Collaborates with other colleagues and peers working on coding projects to be reviewed in commuity of coders or just two indiviuals.
